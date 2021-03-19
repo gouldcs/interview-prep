@@ -2,7 +2,7 @@
 I'm writing this repo to keep track of everything I have done and continue to do in order to get an internship at basically any company I want. I messed up, it's already March of my Junior year. My very first piece of advice is to do this stuff earlier. Start your Sophomore year, even your Freshman year. If you aren't in college, start now. This will include resources to reference that help you learn the fundamentals for the interview process. I'm assuming you know data structures and algorithms. Good luck!
 
 ## Step 1: Build a schedule, make it work
-- Spend 3 hours a day on preparing for an interview.
+- Spend 3 hours a day on preparing for an interview
 - 2 hours should be used to work on leetcode problems
 - 1 hours should be dedicated to applying to internships
 
@@ -38,7 +38,7 @@ I'm writing this repo to keep track of everything I have done and continue to do
 - Prepare questions for the company by researching their industry, mission statement, company culture, etc., these questions show you have genuine interest in working for them
 
 ## Miscellaneous:
-- If you think this is easy, it isn't. I've spent my entire college career trying to simplify CS in every way I can. There is no escaping this part of the grind. If there was, I would have found it and shared it.
+- If you think this is easy, it isn't. I've spent my entire college career trying to simplify CS in every way I can. There is no escaping this part of the grind. If there was, I would have found it and shared it
 - Don't waste any time, start now
 - Modify your resume for different positions
 - Make sure to have several languages that you are familiar with and can use to code during a technical interview
