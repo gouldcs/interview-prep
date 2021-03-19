@@ -1,1 +1,5 @@
 # Building A Schedule
+Building a schedule is extremely important when it comes to consistently studying. Without a plan, you'll never do it. Sure, be agile and realize that some days you can't do the full amount. But Make sure you get that time back later. This is a very serious set of tasks that you have to complete. If you can't get an internship by the end of your Junior year, you may be unemployed for 6-18 months after graduation. Graduate interviews are not fun. They are much harder and include a bunch of content _on top_ of the standard leetcode problems. It's better to get all this done right now instead of waiting and ending up spending 6-18 months studying for a graduate interview and building graduate projects.
+
+## What your schedule should look like
+Work 3 hours a day on internships and interview preparation. That puts you at 21 hours a week of studying. If you are in University, you can cut this down to 2 hours assuming you're getting at least an hour of practice out of your studies. 
