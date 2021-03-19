@@ -13,11 +13,12 @@ I'm writing this repo to keep track of everything I have done and continue to do
 - Read 'Cracking the Coding Interview
 - Invest in LeetCode Premium and _use it_
 
-## Step 3: Mentally Prepare for an Interview
+## Step 3: Mentally Prepare for the Technical and Behavioral Interview
 - Replace LeetCode and Hackerrank time with mock interviews
 - Put yourself in uncomfortable positions where someone watches you code
 - Read and judge other people's code
 - Continue to apply to new jobs
+- Your school's Career Development (or equivalent) office may offer interviewing practices
 
 ## Step 4: Revise Your Resume
 - If you are not getting as many call backs as desired, you need to fix your resume
