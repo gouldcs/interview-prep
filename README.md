@@ -7,6 +7,7 @@ I'm writing this repo to keep track of everything I have done and continue to do
 - 1 hours should be dedicated to applying to internships
 
 ## Step 2: Learn & Review the fundamentals
+- Data Structures and Algorithms are your friend
 - Watch YouTube videos on algorithms, not lectures
 - Do LeetCode and Hackerrank problems, Easy/Medium
 - Read 'Cracking the Coding Interview
