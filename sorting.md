@@ -55,6 +55,9 @@ def mergeSort(arr,left,right):
         mergeSort(arr, middle  + 1, right) 
         merge(arr, left, middle, right) 
 ```
+[Explanation](https://www.youtube.com/watch?v=Nso25TkBsYI)
+
+[code source](https://www.geeksforgeeks.org/merge-sort/) (modified for clarity)
 
 ## QuickSort
 
