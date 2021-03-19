@@ -2,7 +2,7 @@
 
 ## Formatting
 
-## Skills & Technologies
+## Hard Skills & Technologies
 
 ## Experience
 
